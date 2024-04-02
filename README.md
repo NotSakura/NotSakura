@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello, my name actually is Sakura 👋
+(misleading name I know...)
 <!--
 **NotSakura/NotSakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently an undergrad at the University of Toronto doing a specialist in Computer Science! 
+
