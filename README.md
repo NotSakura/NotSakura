@@ -19,4 +19,8 @@ I am currently an undergrad at the University of Toronto doing a specialist in C
 Pronouns: she/her
 Fun Fact: I know more coding languages than actual languages (6 vs 3)
 
+<b>
+
+I really enjoy learning about the new intersection between com science and a completely different topic (the most recent one I learnt was fashion and AI)!
+
 
