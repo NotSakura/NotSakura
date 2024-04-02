@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am currently an undergrad at the University of Toronto doing a specialist in Computer Science! 
+Pronouns: she/her
+Fun Fact: I know more coding languages than actual languages (6 vs 3)
+
 
