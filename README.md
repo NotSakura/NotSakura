@@ -1,5 +1,5 @@
-### Hello, my name actually is Sakura 👋
-(misleading name I know...)
+### Hello,I'm Sakura 👋
+
 <!--
 **NotSakura/NotSakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
